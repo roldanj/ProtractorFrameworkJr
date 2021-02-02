@@ -22,7 +22,8 @@ exports.config = {
   // Spec patterns are relative to the current working directory when
   // protractor is called.
   //specs: ['C:\\Users\\10063710\\OneDrive - Dover Corporation\\Desktop\\Projects\\tests\\example_spec.js'],
-  specs: ['C:\\Users\\10063710\\OneDrive - Dover Corporation\\Desktop\\Projects\\tests\\calculator.js'],
+  //specs: ['C:\\Users\\10063710\\OneDrive - Dover Corporation\\Desktop\\Projects\\tests\\calculator.js'],
+   specs: ['C:\\Users\\10063710\\OneDrive - Dover Corporation\\Desktop\\Projects2\\ProtractorFrameworkJr\\tests\\calculator.js'],
 
 
   // Options to be passed to Jasmine.
