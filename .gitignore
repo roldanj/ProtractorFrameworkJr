@@ -3,3 +3,6 @@ conf/node_modules/
 node_modules/
 screenshots/
 
+
+ProtractorTestReport.html
+xmlresults.xml
