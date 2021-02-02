@@ -6,3 +6,6 @@ screenshots/
 
 ProtractorTestReport.html
 xmlresults.xml
+allure-results/
+
+.gitignore
